@@ -7,7 +7,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        // создадим наших участников
+        // создадим наших участников 
         ReaderImpl dima = new ReaderImpl("Дима");
         LibrarianAdmin nastya = new LibrarianAdmin("Настя");
         SuppliesReader petya = new SuppliesReader("Петя");
